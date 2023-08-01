@@ -1,7 +1,7 @@
 # Coursera---Business-Analytics-Specialization
 I have successfully completed all five courses in Wharton's Business Analytics Specialization, and has gained the data literacy and analytic mindset necessary to describe, predict, and inform business decisions using big data in the specific areas of marketing, human resources, finance, and operations.
 
-# 1. Course 1: Customer Analytics
+# Course 1: Customer Analytics
 - Learn the major methods of customer data collection and synthesize how data can inform business decisions
 - Explore causation versus correlation in business data.
 - Identify main tools used for customer behavior prediction, and the appropriate uses for each tool.
@@ -12,7 +12,7 @@ I have successfully completed all five courses in Wharton's Business Analytics S
 - Practice putting data to use in your own fictional company based on effective data-driven principles.
 - Identify the different methods used by well-known firms to solve problems with data.
 
-# 2. Course 2: Operations Analytics
+# Course 2: Operations Analytics
 - Get introduced to underlying analytics concepts, such as random variables, descriptive statistics, common forecasting tools, and measures for judging the quality of a forecast.
 - Practice building optimization models and applying them to specific business challenges.
 - Learn how excel can help optimize a solution with built-in formulas.
@@ -21,7 +21,7 @@ I have successfully completed all five courses in Wharton's Business Analytics S
 - Learn about decision trees, and how they work together with optimization and simulation to solve complex problems.
 - Use optimization frameworks to practice solving real problems using data.
 
-# 3. Course 3: People Analytics
+# Course 3: People Analytics
 - Understand the concept of performance evaluation and its role in the workplace.
 - Learn about the four key issues in measuring performance: regression to the mean, sample size, signal independence, and process vs. outcome and how to apply them in real-world scenarios, specifically in the NFL.
 - Learn about how to use data to analyze the key components of the staffing cycle: hiring, internal mobility and career development, and attrition.
@@ -35,7 +35,7 @@ I have successfully completed all five courses in Wharton's Business Analytics S
 - Practice the four major challenges of talent analytics: context, interdependence, self-fulfilling prophecies, and reverse causality, the challenges of working with algorithms, and some practical tips for incorporating data sensitively and fairly.
 - Understand the current challenges and future directions of the field of people analytics to put employee data to work in a smarter way.
 
-# 4. Course 4: Accounting Analytics
+# Course 4: Accounting Analytics
 - Understand the concept of ratio analysis and forecasting, including how it involves financial statement numbers.
 - Learn about financial statements and sources of financial data through optional review videos.
 - Analyze a single company's strategy and business model, using the DuPont analysis, profitability and turnover ratios, and liquidity ratios.
@@ -52,6 +52,6 @@ I have successfully completed all five courses in Wharton's Business Analytics S
 - Read examples of how real-world companies use accounting analytics to show how investments in non-financial dimensions pay off in the future and the common organizational issues that can arise when using these models.
 - Understand how predictive analytics can be used to determine what to measure, how to weight different performance measures, make trade-offs between short and long-term objectives, and set performance targets for optimal financial performance.
 
-# 5. Course 5: Business Analytics Capstone Project
+# Course 5: Business Analytics Capstone Project
 - Apply what you've learned about making data-driven decisions to a real business challenge faced by global technology companies like Yahoo, Google, and Facebook.
 - Devise a course of action to optimize your company data to provide insights and analyses using principles from each of the courses above.
